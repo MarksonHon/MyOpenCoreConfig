@@ -8,7 +8,7 @@
 | Graphics | AMD Radeon RX560D|
 | CPU | Intel i7-8700T|
 |SSD|SANSUNG MZVLW256HEHP|
-|RAM| Two ADATA 16GB DRR4|
+|RAM| Two ADATA 16GB DDR4|
 
  Serial number has changed to a error one, if you want to use this configuration, change it by OpenCore Configuratior or your text editor.
 
